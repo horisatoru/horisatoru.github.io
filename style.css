@@ -1,0 +1,16 @@
+.f-container {
+    display: flex;
+    background-color: #ccc;
+    padding: 5px;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.f-item {
+    background-color: white;
+    border: solid 4px #036;
+    margin: 5px;
+    padding: 15px;
+    ;
+}
